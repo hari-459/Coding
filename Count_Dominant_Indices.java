@@ -1,4 +1,4 @@
-class CountDominantIndices {
+class Count_Dominant_Indices {
     public int dominantIndices(int[] nums) {
         int c=0,i=0,j=0;
         int n=nums.length;
