@@ -1,4 +1,4 @@
-class Solution {
+class SetMismatch {
     public int[] findErrorNums(int[] nums) {
         int n=nums.length;
         int[] t=new int[n+1];
