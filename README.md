@@ -39,4 +39,16 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
