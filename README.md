@@ -6,6 +6,7 @@ The codes are available in java and python.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 ## String
 | Problem Name | Difficulty |
