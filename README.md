@@ -16,4 +16,20 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
