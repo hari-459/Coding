@@ -11,6 +11,7 @@ The codes are available in java and python.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0242-valid-anagram](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,4 +65,8 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
