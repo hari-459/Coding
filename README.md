@@ -28,6 +28,7 @@ The codes are available in java and python.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hari-459/Coding/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
@@ -35,6 +36,7 @@ The codes are available in java and python.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hari-459/Coding/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
@@ -42,12 +44,14 @@ The codes are available in java and python.
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hari-459/Coding/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0111-minimum-depth-of-binary-tree](https://github.com/hari-459/Coding/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
