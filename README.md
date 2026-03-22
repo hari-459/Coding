@@ -7,11 +7,13 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0263-ugly-number](https://github.com/hari-459/Coding/tree/main/0263-ugly-number/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 ## Simulation
@@ -56,6 +58,7 @@ The codes are available in java and python.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## Linked List
