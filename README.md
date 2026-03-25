@@ -8,6 +8,7 @@ The codes are available in java and python.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
 | [0263-ugly-number](https://github.com/hari-459/Coding/tree/main/0263-ugly-number/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 ## String
@@ -77,6 +78,7 @@ The codes are available in java and python.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
