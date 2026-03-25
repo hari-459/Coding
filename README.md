@@ -73,6 +73,7 @@ The codes are available in java and python.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hari-459/Coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 ## Bit Manipulation
@@ -87,5 +88,10 @@ The codes are available in java and python.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hari-459/Coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
