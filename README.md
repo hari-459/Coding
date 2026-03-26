@@ -9,6 +9,7 @@ The codes are available in java and python.
 | [0009-palindrome-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
+| [0231-power-of-two](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/hari-459/Coding/tree/main/0263-ugly-number/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 ## String
@@ -81,6 +82,7 @@ The codes are available in java and python.
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +96,8 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
