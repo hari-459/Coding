@@ -61,6 +61,7 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 ## Linked List
@@ -78,6 +79,7 @@ The codes are available in java and python.
 | [0004-median-of-two-sorted-arrays](https://github.com/hari-459/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hari-459/Coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -108,4 +110,8 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hari-459/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
