@@ -11,16 +11,19 @@ The codes are available in java and python.
 | [0029-divide-two-integers](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/hari-459/Coding/tree/main/0263-ugly-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0412-fizz-buzz](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
