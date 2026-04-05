@@ -66,6 +66,7 @@ The codes are available in java and python.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -99,5 +100,6 @@ The codes are available in java and python.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
