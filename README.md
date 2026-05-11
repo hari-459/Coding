@@ -25,6 +25,7 @@ The codes are available in java and python.
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/hari-459/Coding/tree/main/LeetCode/Medium/0537-complex-number-multiplication/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ The codes are available in java and python.
 | [0128-longest-consecutive-sequence](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
