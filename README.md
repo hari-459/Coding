@@ -69,6 +69,7 @@ The codes are available in java and python.
 | [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0217-contains-duplicate](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0525-contiguous-array](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ The codes are available in java and python.
 | [0128-longest-consecutive-sequence](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0525-contiguous-array](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -122,4 +124,8 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0525-contiguous-array](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 <!---LeetCode Topics End-->
