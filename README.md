@@ -79,6 +79,7 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ The codes are available in java and python.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hari-459/Coding/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0525-contiguous-array](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
@@ -120,6 +122,7 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hari-459/leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
