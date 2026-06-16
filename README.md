@@ -9,6 +9,7 @@ The codes are available in java and python.
 | [0009-palindrome-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0029-divide-two-integers/) | Medium |
+| [0202-happy-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/hari-459/Coding/tree/main/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
@@ -67,6 +68,7 @@ The codes are available in java and python.
 | [0013-roman-to-integer](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0013-roman-to-integer/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
+| [0202-happy-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0525-contiguous-array](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
@@ -80,6 +82,7 @@ The codes are available in java and python.
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0202-happy-number](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0202-happy-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
