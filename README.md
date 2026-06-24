@@ -138,4 +138,8 @@ The codes are available in java and python.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0525-contiguous-array](https://github.com/hari-459/leetcode/tree/main/LeetCode/Medium/0525-contiguous-array/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/hari-459/leetcode/tree/main/LeetCode/Easy/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
